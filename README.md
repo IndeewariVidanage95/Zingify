@@ -23,7 +23,7 @@ You need a MongoDB account (https://www.mongodb.com/)
 ## Clone the Repository
 
 ```bash
-  git clone https://github.com/
+  git clone https://github.com/IndeewariVidanage95/Zingify.git
   cd Zingify
 ```
 
